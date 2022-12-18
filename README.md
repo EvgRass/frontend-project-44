@@ -7,9 +7,9 @@
 
 <p>Mind Games is a set of five brain—boosting games. Each game asks three questions. After three correct answers in a row, it is considered that the game is over.</p>
 <ul>Presented games:
+<li>Definition of an even number.</li>
 <li>Calculator. Arithmetic expressions that need to be calculated.</li>
 <li>Progression. Search for missing numbers in a sequence of numbers.</li>
-<li>Definition of an even number.</li>
 <li>Finding the Greatest Common Divisor.</li>
 <li>Definition of a prime number.</li>
 </ul>
@@ -24,29 +24,10 @@ npm install
 npm link
 </pre>
 
-<ul>
+
 <h2>Games</h2>
 
-<li><h3>Brain-calc<h3></li>
-<p>It is necessary to calculate the sum, difference or composition of two numbers</p>
-
-<h4>Starting the game</h4>
-
-<pre>brain-calc</pre>
-
-<h4>Presents</h4>
-<p><a href="https://asciinema.org/a/oTJseoW2fbH4CVEqFRoLa4EJc" target="_blank"><img src="https://asciinema.org/a/oTJseoW2fbH4CVEqFRoLa4EJc.svg" /></a></p>
-
-<li><h3>Brain-progression<h3></li>
-
-<p>It is necessary to calculate which number is "hidden" in the arithmetic progression</p>
-
-<h4>Starting the game</h4>
-
-<pre>brain-progression</pre>
-
-<h4>Presents</h4>
-<p><a href="https://asciinema.org/a/544186" target="_blank"><img src="https://asciinema.org/a/544186.svg" /></a></p>
+<ul>
 
 <li><h3>Brain-even<h3></li>
 
@@ -58,6 +39,27 @@ npm link
 
 <h4>Presents</h4>
 <p><a href="https://asciinema.org/a/pR0RyTs15lrXl8iYXfh1AxxzB" target="_blank"><img src="https://asciinema.org/a/pR0RyTs15lrXl8iYXfh1AxxzB.svg" /></a></p>
+
+<li><h3>Brain-calc<h3></li>
+<p>It is necessary to calculate the sum, difference or composition of two numbers</p>
+
+<h4>Starting the game</h4>
+
+<pre>brain-calc</pre>
+
+<h4>Presents</h4>
+<p><a href="https://asciinema.org/a/ew3lO6qxymLacokC0XYd8MW1e" target="_blank"><img src="https://asciinema.org/a/ew3lO6qxymLacokC0XYd8MW1e.svg" /></a></p>
+
+<li><h3>Brain-progression<h3></li>
+
+<p>It is necessary to calculate which number is "hidden" in the arithmetic progression</p>
+
+<h4>Starting the game</h4>
+
+<pre>brain-progression</pre>
+
+<h4>Presents</h4>
+<p><a href="https://asciinema.org/a/544186" target="_blank"><img src="https://asciinema.org/a/544186.svg" /></a></p>
 
 <li><h3>Brain-gcd<h3></li>
 
