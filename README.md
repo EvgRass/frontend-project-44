@@ -85,5 +85,5 @@ npm link
 <pre>brain-prime</pre>
 
 <h4>Presents</h4>
-<p><a href="https://asciinema.org/a/544887" target="_blank"><img src="https://asciinema.org/a/544887.svg" /></a></p>
+<p><a href="https://asciinema.org/a/hwUCtopketRNGfDx02iCbO86J" target="_blank"><img src="https://asciinema.org/a/hwUCtopketRNGfDx02iCbO86J.svg" /></a></p>
 </ul>
