@@ -2,8 +2,6 @@ import {MAXRAUNDS, welcome, getAnswer, wrongAnswer} from '../index.js';
 
 const calc = () => {
     const name = welcome();
-    const yes = 'yes';
-    const no = 'no';
 
     console.log('What is the result of the expression?');
 
