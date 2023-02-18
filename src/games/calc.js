@@ -2,7 +2,7 @@ import {
   MAXRAUNDS,
   welcome,
   getAnswer,
-  wrongAnswer
+  wrongAnswer,
 } from '../index.js';
 
 const calculation = (number1, number2, sign) => {
@@ -19,7 +19,7 @@ const calculation = (number1, number2, sign) => {
 };
 
 const calc = () => {
-const name = welcome();
+  const name = welcome();
 
   console.log('What is the result of the expression?');
 

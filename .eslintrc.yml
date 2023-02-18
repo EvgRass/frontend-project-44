@@ -21,7 +21,7 @@
       "error",
       {
         "ignorePackages": true,
-        "js": "always"
+        "js": "never"
       }
     ],
     "no-underscore-dangle": [
