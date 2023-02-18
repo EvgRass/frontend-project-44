@@ -3,7 +3,7 @@ import {
   welcome,
   getAnswer,
   wrongAnswer,
-} from '../index.js';
+} from '../index';
 
 const getProgression = () => {
   const res = ['', 0];

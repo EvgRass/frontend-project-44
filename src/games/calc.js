@@ -3,7 +3,7 @@ import {
   welcome,
   getAnswer,
   wrongAnswer,
-} from '../index.js';
+} from '../index';
 
 const calculation = (number1, number2, sign) => {
   switch (sign) {
