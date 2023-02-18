@@ -3,7 +3,7 @@ import {
   welcome,
   getAnswer,
   wrongAnswer,
-} from '../index';
+} from '../index.js';
 
 const isEven = (number) => number % 2 === 0;
 

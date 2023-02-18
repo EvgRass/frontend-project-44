@@ -3,7 +3,7 @@ import {
   welcome,
   getAnswer,
   wrongAnswer,
-} from '../index';
+} from '../index.js';
 
 const findGCD = (a, b) => {
   if (!b) {
